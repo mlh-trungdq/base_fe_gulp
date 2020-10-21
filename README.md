@@ -2,4 +2,6 @@
 
 This repo is a gulp starter for this CSS Tricks tutorial. 
 
-Remember to do run the `npm install` command after cloning this repo :) 
+Remember to do run the `npm install` command after cloning this repo :)
+
+To start code : run command `gulp watch` 
